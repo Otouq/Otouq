@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Otouq
-- 👀 I’m interested in ... JavaScript, Phython, C++
+- 👀 I’m interested in ... Java, JavaScript, Phython, C++
 - 🌱 I’m currently learning ... JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
